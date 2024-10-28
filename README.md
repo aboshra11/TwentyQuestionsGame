@@ -11,3 +11,8 @@ This is a simple C program that implements a **Twenty Questions** guessing game 
 To compile the code:
 ```bash
 gcc -o twenty_questions twenty_questions.c
+
+## Execution
+Run the program with:
+```bash
+./twenty_questions
